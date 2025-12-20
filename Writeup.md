@@ -1,5 +1,5 @@
 # Customer Churn Prediction with Profit Optimization
-## Concise Research Summary
+## Research Summary
 
 ---
 
